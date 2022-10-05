@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  color: silver;
+}
+
+div p {
+  font-weight: bold;
+}
+
+.twitter {
+  color: skyblue;
+  text-decoration: underline;
+}

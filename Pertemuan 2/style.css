@@ -1,0 +1,15 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: whitesmoke;
+}
+
+h1 {
+  text-align: center;
+  color: lightcoral;
+}
+
+p {
+  color: aquamarine;
+  text-align: center;
+  text-decoration: none;
+}
